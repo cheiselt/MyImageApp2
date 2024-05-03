@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9C1F97DB-45CC-4157-9975-7B8EC7907597"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4DAE620-813D-4301-BFD1-A57DE104C09D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyImageApp2/MyDocument.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-exportButtonPressed"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4DAE620-813D-4301-BFD1-A57DE104C09D - 598ec2f77344142f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyDocument exportButtonPressed:]"
+                  moduleName = "MyImageApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c.heiselt/Code/tmp/MyImageApp2/MyImageApp2/MyDocument.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E4DAE620-813D-4301-BFD1-A57DE104C09D - 7b614706f1057bb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyDocument exportButtonPressed]"
+                  moduleName = "MyImageApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c.heiselt/Code/tmp/MyImageApp2/MyImageApp2/MyDocument.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E4DAE620-813D-4301-BFD1-A57DE104C09D - 7b614706f1057851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyDocument exportButtonPressed]"
+                  moduleName = "MyImageApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c.heiselt/Code/tmp/MyImageApp2/MyImageApp2/MyDocument.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
